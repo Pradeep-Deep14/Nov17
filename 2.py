@@ -1,3 +1,3 @@
 print(type(10))
 
-#<class 'int'>
+#<class 'int'>3
